@@ -67,6 +67,9 @@ Fiz um screecast para instalação do Julia no linux e outro no windows
  * [Apresentação do Curso](../sci-comp/apresentacao)
  * [Idéia básica da abordagem do curso](../sci-comp/000-ideia-basica)
 
+## Aula 01: Interpolação e aproximação
+
+[Notebook com as notas de aula sobre interpolação e aproximação](../sci-comp/01-aproximacao)
 
 
 # Bibliografia
