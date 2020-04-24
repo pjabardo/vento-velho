@@ -71,6 +71,19 @@ Fiz um screecast para instalação do Julia no linux e outro no windows
 
 [Notebook com as notas de aula sobre interpolação e aproximação](../sci-comp/01-aproximacao)
 
+### Screencast da aula
+
+{{% media url=https://youtu.be/6v49Kr8OFA0 %}}
+
+
+## Solução dos problemas da aula 01
+
+[Notebook com a solução dos problemas da aula 01](../sci-comp/01-sol-aproximacao)
+
+### Screencast com a solução dos exercícios
+
+{{% media url=https://youtu.be/vznKCYTQnpw %}}
+
 
 # Bibliografia
 
