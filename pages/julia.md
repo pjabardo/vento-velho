@@ -37,7 +37,34 @@ Fiz um screecast para instalação do Julia no linux e outro no windows
 
 [Mais informações e exercícios, ver o blog correspondente a esta aula neste link](../posts/julia-01)
 
+
+## Capítulo 2: Variáveis, expressões e statements
+
+{{% media url=https://youtu.be/Z8O7MRm1CDo %}}
+
+[Mais informações e exercícios, ver o blog correspondente a esta aula neste link](../posts/julia-02)
+
+## Capítulo 3: Funções 
+
+{{% media url=https://youtu.be/neJucNT4Dy0 %}}
+
+[Mais informações e exercícios, ver o blog correspondente a esta aula neste link](../posts/julia-03)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Links importantes
+
 
 Há uma organização do github com os softwares e slides do curso: <https://github.com/iptscicomp>
 
