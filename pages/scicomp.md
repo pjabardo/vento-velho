@@ -85,6 +85,26 @@ Fiz um screecast para instalação do Julia no linux e outro no windows
 {{% media url=https://youtu.be/vznKCYTQnpw %}}
 
 
+## Aula 02: Interpolação trigonométrica
+
+[Notebook com as notas de aula sobre interpolação e aproximação](../sci-comp/02-fourier)
+
+[Blog sobre a aula](../posts/2020/05/scicomp-02)
+
+### Screencast da aula
+
+{{% media url=https://youtu.be/cUkD--CmpNg %}}
+
+## Solução dos problemas da aula 02
+
+[Notebook com a solução dos problemas da aula 01](../sci-comp/02-sol-fourier)
+
+### Screencast com a solução dos exercícios
+
+{{% media url=https://youtu.be/6_vj83EBTmg %}}
+
+
+
 # Bibliografia
 
  * [Burden e Faires, Análise Numérica](https://www.amazon.com.br/An%C3%A1lise-num%C3%A9rica-Richard-Burden/dp/8522123403/ref=sr_1_1?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=Burden+Faires&qid=1553869210&s=gateway&sr=8-1-spell)

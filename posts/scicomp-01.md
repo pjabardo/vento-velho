@@ -24,7 +24,7 @@ Vamos começar de fato o curso de computação científica em Julia. Nesta aula,
 
 {{% media url=https://youtu.be/6v49Kr8OFA0 %}}
 
-### Mais informações
+## Mais informações
 
 [Ver a página web do curso](../../scicomp)
 

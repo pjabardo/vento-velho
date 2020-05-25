@@ -15,6 +15,23 @@ Esta á a página do curso de programação em Julia online. A idéia é seguir 
 
 As aulas serão na forma de screencasts que podem ser encontrados no seguinte canal do youtube: <https://www.youtube.com/channel/UCxsN52VZT5QZKDU66lx4XXQ>. Às segundas, quartas e sextas, das 9h às 10h da manhã estarei disponível para tirar dúvidas no seguinte endereço:  <https://meet.jit.si/iptscicomp>.
 
+
+# Links importantes
+
+
+Há uma organização do github com os softwares e slides do curso: <https://github.com/iptscicomp>
+
+ * <http://julialang.org>
+ * Lista de discussão <https://discourse.julialang.org/>
+ * Canal do youtube <https://www.youtube.com/user/JuliaLanguage>
+ * Documentação: <https://docs.julialang.org>
+ * Junolab, um ambiente baseado no editor [Atom](https://atom.io) para programação em Julia: <https://junolab.org/>
+ * GitHub do julia: <https://github.com/JuliaLang>
+ * Para chat, existe o Slack Julia oficial: <https://julialang.slack.com/>
+ * <http://gen.lib.rus.ec/>
+ * <http://sci-hub.tw/>
+ 
+
 # Preparando o ambiente de programação
 
 Fiz um screecast para instalação do Julia no linux e outro no windows
@@ -30,6 +47,12 @@ Fiz um screecast para instalação do Julia no linux e outro no windows
 
 
 # Aulas
+
+
+## Introduzindo a linguagem Julia
+
+[Aqui você encontra os links para os screencasts da introdução à programação em Julia](../posts/intro-to-julia).
+
 
 ## Capítulo 1: o caminho do programa
 
@@ -50,37 +73,17 @@ Fiz um screecast para instalação do Julia no linux e outro no windows
 
 [Mais informações e exercícios, ver o blog correspondente a esta aula neste link](../posts/julia-03)
 
+## Capítulo 4: Estudo de Caso: projeto de interface
+
+{{% media url=https://youtu.be/_uKiS4cJOew %}}
+
+[Mais informações e exercícios, ver o blog correspondente a esta aula neste link](../posts/2020/05/julia-04)
 
 
+## Capítulo 5: Condicionais e Recursão
+
+{{% media url=https://www.youtube.com/watch?v=6_vj83EBTmg %}}
+
+[Mais informações e exercícios, ver o blog correspondente a esta aula neste link](../posts/2020/05/julia-05)
 
 
-
-
-
-
-
-
-
-
-
-# Links importantes
-
-
-Há uma organização do github com os softwares e slides do curso: <https://github.com/iptscicomp>
-
- * <http://julialang.org>
- * Lista de discussão <https://discourse.julialang.org/>
- * Canal do youtube <https://www.youtube.com/user/JuliaLanguage>
- * Documentação: <https://docs.julialang.org>
- * Junolab, um ambiente baseado no editor [Atom](https://atom.io) para programação em Julia: <https://junolab.org/>
- * GitHub do julia: <https://github.com/JuliaLang>
- * Para chat, existe o Slack Julia oficial: <https://julialang.slack.com/>
- * <http://gen.lib.rus.ec/>
- * <http://sci-hub.tw/>
- 
-
-# Aulas
-
-## Introduzindo a linguagem Julia
-
-[Aqui você encontra os links para os screencasts da introdução à programação em Julia](../posts/intro-to-julia).

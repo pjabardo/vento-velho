@@ -1,0 +1,9 @@
++++
+title = "Interpolação trigonométrica: Séries de Fourier, DFT e FFT"
+slug = "02-fourier"
+date = "2020-05-09 16:26:03 UTC-03:00"
+tags = "julia, série de fourier, fft, dft, interpolação trigonométrica, interpolação"
+link = ""
+description = "Notebook com o material da aula sobre interpolação trigonométrica"
+type = "text"
++++
