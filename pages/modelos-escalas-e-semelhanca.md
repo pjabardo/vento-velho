@@ -37,6 +37,17 @@ Finalmente, na terceira aula mostramos algumas aplicações e alguns paradoxos.
  * Sedov, L. I., "Similarity and dimensional methods in mechanics". Último da lista mas provavelmente o melhor. Fácil de encontrar digitalmente. Em sebos ainda é possível encontrar no Brasil em Francês.
  
 
+# Aula 01
 
+## Slides da aula
+
+* [Notas de aula da primeira aula](../modelos/01-modelos.pdf)
+
+## Vídeos
+
+ * {{% media url=https://www.youtube.com/watch?v=KDp1tiUsZw8 %}}
+ * {{% media url=https://www.youtube.com/watch?v=E43-CfukEgs %}}
+ * {{% media url=https://www.youtube.com/watch?v=h_zytOcMwys %}}
+ 
 
 
