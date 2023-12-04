@@ -49,5 +49,74 @@ Finalmente, na terceira aula mostramos algumas aplicações e alguns paradoxos.
  * {{% media url=https://www.youtube.com/watch?v=E43-CfukEgs %}}
  * {{% media url=https://www.youtube.com/watch?v=h_zytOcMwys %}}
  
+# Aula 02 - Análise dimensional
+
+ * [Slides da aula 02](../modelos/02-adim.pdf)
+ * [Solução de Blasius para a camada limite](../modelos/02b-camada-limite.pdf)
+
+# Aula 03 - Exemplos e aplicações
+
+## Slides usados na aula
+
+ * [Slides da aula 03, parte 1](../modelos/03-exemplos.pdf)
+ * [Slides da aula 03, parte 2 - Ensaios em túnel de vento](../modelos/03b-tuneldevento.pdf)
+
+## Artigos referidos
+ 
+   - [Rayleigh, The principle of similutude, 1915](../modelos/rayleigh1915.pdf)
+   - [Comentários de Riabouchinsky, sobre The principle of similitude de Rayleigh, 1915](../modelos/riabouchinsky1915.pdf)
+   - [Resposta de Rayleigh sobre os comentários de Riabouchinsky, 1915](../modelos/riabouchinsky1915.pdf)
+   - [McMahon, Thomas A., "Rowing: A similarity Analysis", Science, pp 349-351, vol 173, Julho de 1971](../modelos/mcmahon1971.pdf)
+   
+
+
+## Notebooks usados
+ 
+* [Notebook Jupyter com código Python usando o pacote `BuckinghamPi`](../modelos/exemplos)
+* [Arquivo .ipynb do notebook](../modelos/exemplos.ipynb)
+* [Notebook Pluto (Julia) que implementa o método de semelhança por coeficiente de arrasto](../modelos/cdsim/index.src.html)
+* [Arquivo fonte do notebook Pluto (Julia) que implementa o método de semelhança por coeficiente de arrasto](../modelos/cdsim.jl)
+
+
+Para instalar o Pluto, devemos [instalar Julia](https://julialang.org) e em seguida instalar o pacote Pluto:
+
+```
+[pjabardo@durruti vento]$ julia
+               _
+   _       _ _(_)_     |  Documentation: https://docs.julialang.org
+  (_)     | (_) (_)    |
+   _ _   _| |_  __ _   |  Type "?" for help, "]?" for Pkg help.
+  | | | | | | |/ _` |  |
+  | | |_| | | | (_| |  |  Version 1.9.3 (2023-08-24)
+ _/ |\__'_|_|_|\__'_|  |  Official https://julialang.org/ release
+|__/                   |
+
+julia> import Pkg
+
+julia> Pkg.add("Pluto")
+```
+
+Para usar o notebook, vá na pasta onde está o o arquivo `cdsim.jl`, execute o programa Julia, carregue o pacote `Pluto` e execute:
+
+```
+[pjabardo@durruti notebooks]$ ls
+cdsim.jl  exemplos.ipynb
+[pjabardo@durruti notebooks]$ julia
+               _
+   _       _ _(_)_     |  Documentation: https://docs.julialang.org
+  (_)     | (_) (_)    |
+   _ _   _| |_  __ _   |  Type "?" for help, "]?" for Pkg help.
+  | | | | | | |/ _` |  |
+  | | |_| | | | (_| |  |  Version 1.9.3 (2023-08-24)
+ _/ |\__'_|_|_|\__'_|  |  Official https://julialang.org/ release
+|__/                   |
+
+julia> import Pluto; Pluto.run()
+```
+
+Vá onde está Opena notebook e clique dentro do quadro. `cdsim.jl` deve aparecer.
+
+   
+  
 
 
